@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>sokit.png</file>
+        <file>App.ico</file>
+    </qresource>
+</RCC>
